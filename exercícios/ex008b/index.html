@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>Outras Formatações</title>
+    <style>
+        mark{
+            background-color: gray;
+        }
+    </style>
+</head>
+<body>
+    <h1><mark>Outras Formatações</mark></h1>
+    <hr>
+    <h2><mark>Código-fonte / Pré-formatação</mark> &#x2705;</h2>
+    <p>O comando <code>document.getElementById('teste')</code> é escrito em linguagem JavaScript</p> <!--Exemplo simples de código sem uso da tag PRE-->
+    <pre>
+        <code>
+    num = int(input('Digite um número'))
+    if num % 2 == 0:
+        print(f'O número {num} é PAR')
+    else:
+        print(f'O número {num} é ÍMPAR')
+    print('Fim do programa')
+        </code> <!--Exemplos de códigos monospace, junto com pré formatação-->
+    </pre>
+    <h2><mark>Citações simples</mark></h2>
+    <p>Como diria o pai de um amigo: <q>o computador é um burro muito rápido</q></p> <!--Citações simples que dão significado junto com as aspas (semântica)-->
+    <h2><mark>Citações completas</mark></h2>
+    <p>Segundo Sócrates, em uma de suas frases mais famosas:</p> 
+    <blockquote cite="https://www.maioresemelhores.com/frases-mais-famosas-de-filosofos/"><q>Só sei que nada sei</q> - Sócrates</blockquote>    <!--Citação completa junto com o link que está a frase-->
+    <img src="sócrates-html.jpg" alt="Frase de Sócrates"> <!--Imagem da frase, só pra não esquecer-->
+    <h2><mark>Abreviações</mark></h2>
+    <p>Estou estudando <abbr title="Hyper Text Mark Language">HTML</abbr> e <abbr title="Cascading Style Sheet">CSS</abbr></p> <!--Diz o nome das siglas apenas passando o cursor do mouse-->
+    <h2><mark>Texto invertido</mark></h2>
+    <p><bdo dir="ltr">Estou aprendendo a criar coisas em HTML</bdo></p> <!--Deixa o texto invertido-->
+</body>
+</html>
