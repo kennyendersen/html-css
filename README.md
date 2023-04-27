@@ -10,3 +10,37 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 <a href = "https://kennyendersen.github.io/html-css/exercicios/ex002/" target = "_blank"> Executar exercício 2 </a>
 
 <a href = "https://kennyendersen.github.io/html-css/exercicios/ex003/" target = "_blank"> Executar exercício 3 </a>
+
+<a href = "https://kennyendersen.github.io/html-css/exercicios/ex004/" target = "_blank"> Executar exercício 1 </a>
+
+<a href = "https://kennyendersen.github.io/html-css/exercicios/ex006/" target = "_blank"> Executar exercício 1 </a>
+
+<a href = "https://kennyendersen.github.io/html-css/exercicios/ex007/" target = "_blank"> Executar exercício 1 </a>
+
+<a href = "https://kennyendersen.github.io/html-css/exercicios/ex008/" target = "_blank"> Executar exercício 1 </a>
+
+<a href = "https://kennyendersen.github.io/html-css/exercicios/ex008b/" target = "_blank"> Executar exercício 1 </a>
+
+<a href = "https://kennyendersen.github.io/html-css/exercicios/ex009/" target = "_blank"> Executar exercício 1 </a>
+
+<a href = "https://kennyendersen.github.io/html-css/exercicios/ex010/" target = "_blank"> Executar exercício 1 </a>
+
+<a href = "https://kennyendersen.github.io/html-css/exercicios/ex011/" target = "_blank"> Executar exercício 1 </a>
+
+<a href = "https://kennyendersen.github.io/html-css/exercicios/ex012/" target = "_blank"> Executar exercício 1 </a>
+
+<a href = "https://kennyendersen.github.io/html-css/exercicios/ex013/" target = "_blank"> Executar exercício 1 </a>
+
+<a href = "https://kennyendersen.github.io/html-css/exercicios/ex014/" target = "_blank"> Executar exercício 1 </a>
+
+<a href = "https://kennyendersen.github.io/html-css/exercicios/ex015/" target = "_blank"> Executar exercício 1 </a>
+
+<a href = "https://kennyendersen.github.io/html-css/exercicios/ex016/" target = "_blank"> Executar exercício 1 </a>
+
+<a href = "https://kennyendersen.github.io/html-css/exercicios/ex017/" target = "_blank"> Executar exercício 1 </a>
+
+<a href = "https://kennyendersen.github.io/html-css/exercicios/ex018/" target = "_blank"> Executar exercício 1 </a>
+
+<a href = "https://kennyendersen.github.io/html-css/exercicios/ex020/" target = "_blank"> Executar exercício 1 </a>
+
+<a href = "https://kennyendersen.github.io/html-css/exercicios/ex021/" target = "_blank"> Executar exercício 1 </a>
