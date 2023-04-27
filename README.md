@@ -43,5 +43,5 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 <br>
 <a href = "https://kennyendersen.github.io/html-css/exercicios/ex020/" target = "_blank"> Executar exercício 20 </a>
 <br>
-<a href = "https://kennyendersen.github.io/html-css/exercicios/ex021/" target = "_blank"> Executar exercício 21 </a>
+<p><a href = "https://kennyendersen.github.io/html-css/exercicios/ex021/" target = "_blank"> Executar exercício 21 </a></p>
 
