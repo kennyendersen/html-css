@@ -45,3 +45,27 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <p><a href = "https://kennyendersen.github.io/html-css/exercicios/ex021/" target = "_blank"> Executar exercício 21 </a></p>
 
+
+<h1>Esses são os desafios feitos até o momento<h1>
+<hr>
+
+<p><a href = "https://kennyendersen.github.io/html-css/desafios/andorid/" target = "_blank">Desafio Android</a></p>
+
+<p><a href = "https://kennyendersen.github.io/html-css/desafios/d-lista/" target = "_blank">Desafio de lista</a></p>
+
+<p><a href = "https://kennyendersen.github.io/html-css/desafios/d001/" target = "_blank">Desafio mensagens</a></p>
+
+<p><a href = "https://kennyendersen.github.io/html-css/desafios/d002/" target = "_blank">Desafio de imagens</a></p>
+
+<p><a href = "https://kennyendersen.github.io/html-css/desafios/d004/" target = "_blank">Desafio emoji</a></p>
+
+<p><a href = "https://kennyendersen.github.io/html-css/desafios/d005/" target = "_blank">Desafio perfil social</a></p>
+
+<p><a href = "https://kennyendersen.github.io/html-css/desafios/d006/" target = "_blank">Desafio de Tags em HTML</a></p>
+
+<p><a href = "https://kennyendersen.github.io/html-css/desafios/d008/" target = "_blank">Desafio de navegação</a></p>
+
+<p><a href = "https://kennyendersen.github.io/html-css/desafios/d009/" target = "_blank">Desafio de Vídeos</a></p>
+
+<p><a href = "https://kennyendersen.github.io/html-css/desafios/desafio mapa mundi/" target = "_blank">Desafio Mapa Mundi</a></p>
+
