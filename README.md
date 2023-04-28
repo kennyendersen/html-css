@@ -47,7 +47,6 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 
 <h1>Esses são os desafios feitos até o momento<h1>
-<hr>
 
 <p><a href = "https://kennyendersen.github.io/html-css/desafios/andorid/" target = "_blank">Desafio Android</a></p>
 
